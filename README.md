@@ -76,7 +76,7 @@ There is a high correlation between spending amount and scores of all types. The
 
 ### Scores by School Size
 
-The Size dataframe remains identical, though lack of change may provide insight on performance when measured against size. Averages for Large schools drastically decrease compared to their smaller counterparts. In the context of academic dishonesty, if modified test scores were only found in Thomas High School (a smaller, top performing school), then it may give insight to the effects of smaller school cultures compared to larger ones (increased competitive environment, school's need and/or student desparation for prestige, a curriculum deemed too challenging for entry-level students?). 
+The Size dataframe remains identical, though lack of change may provide insight on performance when measured against size. Averages for Large schools drastically decrease compared to their smaller counterparts. In the context of academic dishonesty, if modified test scores were only found in Thomas High School (a smaller, top performing school), then it may give insight to the effects of smaller school cultures compared to larger ones (increased competitive environment, school need and/or student desparation for prestige, a curriculum deemed too challenging for entry-level students?). 
 
 
 <img width="692" alt="image" src="https://user-images.githubusercontent.com/106895220/177098872-e067a03d-db5b-4bc2-b46e-77db1d829c38.png">
