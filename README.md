@@ -84,6 +84,6 @@ The Size dataframe remains identical, though lack of change may provide insight 
 
 ### Scores by School Type
 
-Charter schools, who are generally allowed to operate on their own accord, have more flexibility than district schools. They operate autonomously through individual agreements (charters) with state/local governments to determine rules and academic standards. With this in mind, the data implies that charter school education may indicate higher success. More data is needed to determine this; it could simply be that district schools offer no means for dishonesty, though it is unlikely. Is Thomas High School the only charter school suspected of cheating at the observed level? Performing the analysis for other schools may provide more revelations. 
+Charter schools, which are generally allowed to operate on their own accord, have more flexibility than district schools. They operate autonomously through individual agreements (charters) with state/local governments to determine rules and academic standards. With this in mind, the data implies that charter school education may indicate higher success. More data is needed to determine this; it could simply be that district schools offer no means for dishonesty, though it is unlikely. Is Thomas High School the only charter school suspected of cheating at the observed level? Performing the analysis for other schools may provide more revelations. 
 
 <img width="654" alt="Scores by School Type" src="https://user-images.githubusercontent.com/106895220/177097914-3c59548e-c0bc-4d9d-99cb-2605ce787f14.png">
