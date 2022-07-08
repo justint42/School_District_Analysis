@@ -62,11 +62,14 @@ Removing ninth grade values seems to hae no effect on math and reading scores fo
 
 #### Reading Scores by Grade
 
+
+
+
 <img width="265" alt="Reading_Score_by_Grade" src="https://user-images.githubusercontent.com/106895220/177094159-09bcd6d4-3bc6-4670-8012-dfb8fb2f2ef5.png">
 
 ### Scores by School Spending
 
-
+There is a high correlation between spending amount and scores of all types. The current situation may not find much revelation from spending amount when looking for academic dishonesty. However, it cannot be ignored. Thomas High School receives some of the highest spending per capita of all charter schools. If higher spending equates to more learning opportunities and academic support, then what other factors may drive academic dishonesty?
 
 <img width="741" alt="Score by Spending" src="https://user-images.githubusercontent.com/106895220/177099313-f763bce8-bc2b-45f1-91b2-595fa8f228ab.png">
 
@@ -76,11 +79,11 @@ Removing ninth grade values seems to hae no effect on math and reading scores fo
 The Size dataframe remains identical, though lack of change may provide insight on performance when measured against size. Averages for Large schools drastically decrease compared to their smaller counterparts. In the context of academic dishonesty, if modified test scores were only found in Thomas High School (a smaller, top performing school), then it may give insight to the effects of smaller school cultures compared to larger ones (increased competitive environment, school's need and/or student desparation for prestige, a curriculum deemed too challenging for entry-level students?). 
 
 
-Scores_by_size<img width="692" alt="image" src="https://user-images.githubusercontent.com/106895220/177098872-e067a03d-db5b-4bc2-b46e-77db1d829c38.png">
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/106895220/177098872-e067a03d-db5b-4bc2-b46e-77db1d829c38.png">
 
 
 ### Scores by School Type
 
-
+Charter schools, who are generally allowed to operate on their own accord, have more flexibility than district schools. They operate autonomously through individual agreements (charters) with state/local governments to determine rules and academic standards. With this in mind, the data implies that charter school education may indicate higher success. More data is needed to determine this; it could simply be that district schools offer no means for dishonesty, though it is unlikely. Is Thomas High School the only charter school suspected of cheating at the observed level? Performing the analysis for other schools may provide more revelations. 
 
 <img width="654" alt="Scores by School Type" src="https://user-images.githubusercontent.com/106895220/177097914-3c59548e-c0bc-4d9d-99cb-2605ce787f14.png">
