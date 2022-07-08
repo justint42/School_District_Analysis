@@ -87,3 +87,8 @@ The Size dataframe remains identical, though lack of change may provide insight 
 Charter schools, which are generally allowed to operate on their own accord, have more flexibility than district schools. They operate autonomously through individual agreements (charters) with state/local governments to determine rules and academic standards. With this in mind, the data implies that charter school education may indicate higher success. More data is needed to determine this; it could simply be that district schools offer no means for dishonesty, though it is unlikely. Is Thomas High School the only charter school suspected of cheating at the observed level? Performing the analysis for other schools may provide more revelations. 
 
 <img width="654" alt="Scores by School Type" src="https://user-images.githubusercontent.com/106895220/177097914-3c59548e-c0bc-4d9d-99cb-2605ce787f14.png">
+
+
+## Summary
+
+More data is needed to confirm suspisions of academic dishonesty; the possibility cannot be ignored given our findings. Replacing the ninth grade reading and math scores has caused Thomas High School's overall averages and percentages to drop. Second, the entire district's metrics (average and percentages) dropped. Third, because of lower scores, Thomas High School loses its place in the top five performing schools, but retains it as ninth grade values are excluded. Lastly, we have found a better understanding of ninth grade performance relative to their 10th through 12th grade peers. More inquiry is needed to confirm our the school board's suspicions. 
