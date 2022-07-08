@@ -6,7 +6,7 @@ The school board has notified that our initial school district analysis file sho
 
 ### Purpose 
 
-The purpose of this project is to verse the user in pandas, a software library written for the Python language that specializes in data manipulation and analysis. Moreover, they are to practice cross-referencing two variations of datasets to find implicative values that may provide clarity for a potentially significant situation. 
+The purpose of this project is to verse the user in pandas, a software library written for the Python language that specializes in data manipulation and analysis. Moreover, they are to practice cross-referencing two variations of datasets to find implicative values that may provide clarity for an emergent situation. 
 
 ## Results
 
